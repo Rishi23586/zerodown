@@ -276,11 +276,6 @@ GPS spoofing detection added to fraud module. WhatsApp plain-language claim mess
 
 ---
 
-## Phase 1 demo video
-> Link to be added before March 20 end of day
-
----
-
 ## Team
 | Name | Role |
 |---|---|
